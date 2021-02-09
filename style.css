@@ -8,9 +8,24 @@
 
 main{
     float: left;
-    padding: 70px;
-    margin-top: 100px;
+    position:inherit;
+    padding: 0px;
+    margin-top: 0px;
+    margin-left: 30px;
     color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-size: 36px;
+    font-weight:700;
+    letter-spacing: 1.7px;
+    line-height: 0;
+}
+
+
+p {
+    font-style: italic;
 }
 
 
@@ -29,6 +44,7 @@ nav {
 
 .logo{
     float: left;
+    margin-left: 24px;
 }
 
 ul{
